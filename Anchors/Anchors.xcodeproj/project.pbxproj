@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		B766AA3E2647874C007D4EBA /* LoginUITest.swift in Sources */ = {isa = PBXBuildFile; fileRef = B766AA3D2647874C007D4EBA /* LoginUITest.swift */; };
+		B766AA59264799A2007D4EBA /* UsersListUITest.swift in Sources */ = {isa = PBXBuildFile; fileRef = B766AA58264799A2007D4EBA /* UsersListUITest.swift */; };
 		B7D98166264652C70018685F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7D98165264652C70018685F /* AppDelegate.swift */; };
 		B7D98168264652C70018685F /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7D98167264652C70018685F /* SceneDelegate.swift */; };
 		B7D9816A264652C70018685F /* LoginVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7D98169264652C70018685F /* LoginVC.swift */; };
@@ -38,6 +39,7 @@
 		B766AA31264786EF007D4EBA /* AnchorsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AnchorsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B766AA35264786EF007D4EBA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B766AA3D2647874C007D4EBA /* LoginUITest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginUITest.swift; sourceTree = "<group>"; };
+		B766AA58264799A2007D4EBA /* UsersListUITest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UsersListUITest.swift; sourceTree = "<group>"; };
 		B7D98162264652C70018685F /* Anchors.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Anchors.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B7D98165264652C70018685F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B7D98167264652C70018685F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -78,6 +80,7 @@
 			isa = PBXGroup;
 			children = (
 				B766AA3D2647874C007D4EBA /* LoginUITest.swift */,
+				B766AA58264799A2007D4EBA /* UsersListUITest.swift */,
 				B766AA35264786EF007D4EBA /* Info.plist */,
 			);
 			path = AnchorsUITests;
@@ -281,6 +284,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B766AA59264799A2007D4EBA /* UsersListUITest.swift in Sources */,
 				B766AA3E2647874C007D4EBA /* LoginUITest.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
