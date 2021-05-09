@@ -1,0 +1,52 @@
+{
+   "users":[
+      {
+         "name":"Harry Potter",
+         "city":"London"
+      },
+      {
+         "name":"Don Quixote",
+         "city":"Madrid"
+      },
+      {
+         "name":"Joan of Arc",
+         "city":"Paris"
+      },
+      {
+         "name":"Rosa Park",
+         "city":"Alabama"
+      },
+      {
+         "name":"Rahul",
+         "city":"Alabama"
+      },
+      {
+         "name":"Ajay",
+         "city":"ottaha"
+      },
+      {
+         "name":"Akash",
+         "city":"Pune"
+      },
+      {
+         "name":"Sanket",
+         "city":"Washington"
+      },
+      {
+         "name":"Vinayak",
+         "city":"Warsaw"
+      },
+      {
+         "name":"Vishal",
+         "city":"London"
+      },
+      {
+         "name":"Sagar",
+         "city":"Moscow"
+      },
+      {
+         "name":"Rohan",
+         "city":"New Delhi"
+      }
+   ]
+}
